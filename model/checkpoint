@@ -1,2 +1,2 @@
-model_checkpoint_path: "convnet.ckpt"
-all_model_checkpoint_paths: "convnet.ckpt"
+model_checkpoint_path: "convnet_.ckpt"
+all_model_checkpoint_paths: "convnet_.ckpt"
